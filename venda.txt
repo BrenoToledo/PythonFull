@@ -1,0 +1,2 @@
+Banana|5|frutas|Breno|joao|10|2024-03-07 16:29:13.865501
+Banana|10|frutas|Breno|joao|10|2024-03-07 16:29:13.865501
